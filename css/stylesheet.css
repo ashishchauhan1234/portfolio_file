@@ -57,7 +57,7 @@ a:hover{
 .image>div{
     position: absolute;
     top: 700px;
-    left: 350px;
+    left: 250px;
     text-transform: capitalize;
     text-align: center;
     color: coral;
