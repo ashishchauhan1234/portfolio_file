@@ -5,7 +5,7 @@ body {
 }
 
 .header{
-    width: 100%;
+    width: 1320px;
     background:#240046;
     font-size: 40px;
     text-transform: uppercase;
@@ -16,7 +16,7 @@ body {
 .portfolio{
     font-size: 2.5em;
     padding-left:30%;
- }
+}
 
 .span{
     background: linear-gradient(to right ,#240046,#240ff6,#240046);
@@ -49,15 +49,15 @@ a:hover{
 }
 
 .mypic{
-    width: 80%;
+    width: 1000px;
     height: 100%;
     padding-left: 10%;
 }
 
-.image>div{
+.image>.div{
     position: absolute;
     top: 700px;
-    left: 250px;
+    left: 350px;
     text-transform: capitalize;
     text-align: center;
     color: coral;
@@ -65,6 +65,7 @@ a:hover{
 }
 
 #contact{
+    width: 1320px;
     padding-top: 5px;
     font-size: 30px;
     background-color: #240048;
@@ -78,7 +79,7 @@ a:hover{
 }
 
 #contact table{
-    width: 100%;
+    width: 1320px;
     height: 100%;
 }
 
