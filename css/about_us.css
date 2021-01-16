@@ -4,13 +4,12 @@ body{
 }
 
 .header{
-    width: 100%;
+    width: 1320px;
     background:#240046;
     font-size: 40px;
     text-transform: uppercase;
     margin: 0;
     color: wheat;
-    border: 2px solid coral;
 }
 
 .portfolio{
@@ -22,8 +21,9 @@ body{
     background: linear-gradient(to right ,#240046,#240ff6,#240046);
     padding-left: 40px;
 }
+
 .header1{
-    text-align: center;
+    padding-bottom: 20px;
 }
 
 a{
@@ -45,16 +45,25 @@ a:hover{
 .heading{
     border: 2px solid ;
     background-color: #240046;
-    width: 100%;
+    width: 1200px;
     height: 80px;
     font-size: 80px;
     text-align: center;
     text-transform: capitalize;
-    margin-top: 30px;
+    margin: 40px;
+}
+
+.heading1,.heading2,.heading3,.heading4,.heading5{
+    font-size: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: black;
+    text-decoration: underline;
+    margin-top: 60px;
 }
 
 .intro{
-    width: 80%;
+    width: 1300px;
     height: 400px;
     background-image: url("../images/IMG_20190914_221213_879.jpg");
     background-repeat: no-repeat;
@@ -68,13 +77,7 @@ a:hover{
     padding-top: 5%;
 }
 
-.heading1,.heading2,.heading3,.heading4,.heading5{
-    font-size: 50px;
-    text-transform: capitalize;
-    text-align: center;
-    text-shadow: black;
-    text-decoration: underline;
-}
+
 
 .brief_description{
     font-size: 25px;
